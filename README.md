@@ -8,3 +8,5 @@ Além de procurar receitas, os usuários poderão cadastrar suas próprias recei
 <img width="235" height="488" alt="Untitled" src="https://github.com/user-attachments/assets/36feb31d-9651-403f-9f31-25719224a0ca" />
 
 ## Mockup:
+<img width="1600" height="900" alt="WhatsApp Image 2026-09-13 at 22 37 18 (1)" src="https://github.com/user-attachments/assets/02249c37-a4ff-451f-8b88-173b3ab9e6ba" />
+<img width="1600" height="900" alt="WhatsApp Image 2026-09-13 at 22 37 18" src="https://github.com/user-attachments/assets/ed6fa7ec-25cd-4f69-86b7-9a8db9fe2656" />
